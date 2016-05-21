@@ -1,1 +1,0 @@
-A tool named "Encryptor" that can take in messages, encrypt them for transmission, then decrypt messages we get from others.
